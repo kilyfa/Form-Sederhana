@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: #000000;
+}
+
+form {
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: hsl(33, 100%, 98%);
+  margin-bottom: 10%;
+}
+
+.img-background {
+  background-color: #4c3d3d;
+  width: 100%;
+  height: auto;
+}
+
+.bg-image {
+  background-color: #d14d72;
+  padding: 10%;
+  padding-bottom: 15%;
+  border-radius: 25px;
+}
+
+form .form-floating {
+  margin-bottom: 4%;
+}
+
+form .form-control {
+  margin-bottom: 7%;
+}
+
+.hargamldm {
+  color: #000000;
+  padding: 3%;
+  padding-left: 5%;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.bagiancarousel {
+  margin-bottom: 5%;
+}
+
+.bagiancarousel img {
+  border-radius: 20px;
+}
